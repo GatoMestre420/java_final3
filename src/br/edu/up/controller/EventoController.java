@@ -51,6 +51,5 @@ public class EventoController {
 
     public void atualizarView() {
         view.exibirDetalhesEvento(model);
-        
     }
 }
