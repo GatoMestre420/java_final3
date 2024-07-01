@@ -1,4 +1,4 @@
-package br.edu.edu.up.model;
+package br.edu.up.model;
 
 public class Local {
 
@@ -17,6 +17,3 @@ public class Local {
         this.endereco = endereco;
     }
 }
-
-
-
