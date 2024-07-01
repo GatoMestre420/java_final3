@@ -1,10 +1,9 @@
-
 package br.edu.up.model;
 
-public class Participante {
+public class Organizador {
     private String nome;
 
-    public Participante(String nome) {
+    public Organizador(String nome) {
         this.nome = nome;
     }
 
@@ -16,5 +15,4 @@ public class Participante {
     public void setNome(String nome) {
         this.nome = nome;
     }
-
 }
