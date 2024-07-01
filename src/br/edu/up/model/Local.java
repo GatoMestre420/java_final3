@@ -1,7 +1,6 @@
 package br.edu.up.model;
 
 public class Local {
-
     private String endereco;
 
     public Local(String endereco) {
